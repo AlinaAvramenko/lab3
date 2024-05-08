@@ -1,0 +1,11 @@
+Послідовність створення директорій та використання прикріплених batch файлів
+
+1) lab3 batch1
+
+2) lab3 batch2
+
+3) lab3 report create batch
+
+4) lab3 report batch
+
+Індивідуальне завдання варіанту 1 - lab3 task batch
